@@ -1,0 +1,23 @@
+{
+	"ProjectName": "Save_That_Money",
+	"ProjectPath": "/Users/GFigarella/Documents/Programacion/Bootcamp/WorkingDirectory/Projects/Save_That_Money",
+	"SourceDir": "src",
+	"DistributionDir": "build",
+	"BuildCommand": "npm run-script build",
+	"StartCommand": "npm run-script start",
+	"InitializationTime": "2018-03-06-14-50-37",
+	"LastConfigurationTime": "2018-03-06-14-53-04",
+	"LastNPMInstallTime": "",
+	"FrontendLastBuildTime": "",
+	"LastPublishTime": "",
+	"BackendFormat": "yml",
+	"BackendLastSyncTime": "2018-03-06-17-59-45",
+	"BackendLastBuildTime": "2018-03-06-17-59-23",
+	"BackendLastPushTime": "2018-03-06-17-59-41",
+	"BackendLastPushSuccessful": true,
+	"BackendProjectID": "ffb2e8ad-2177-11e8-990e-0dddd7637768",
+	"BackendProjectName": "Save_That_Money-2018-03-06-14-53-04",
+	"BackendProjectConsoleUrl": "https://console.aws.amazon.com/mobilehub/home#/ffb2e8ad-2177-11e8-990e-0dddd7637768/build",
+	"BackendProjectCreationTime": "2018-03-06T19:53:11.042Z",
+	"BackendProjectLastUpdatedTime": "2018-03-06T22:59:46.764Z"
+}
